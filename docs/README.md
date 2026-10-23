@@ -9,7 +9,7 @@ describes the officially-supported features and provides guidance for customizin
 
 ## Update the docs subproject
 
-The goal is to override the build configuration of the Sphinx Stack as little as
+The goal is to override the Sphinx Stack build configuration as little as
 possible, so when changes come we don't have to recreate them. The process isn't automatic.
 
 ### Gather the changes
