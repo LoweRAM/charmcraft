@@ -5,7 +5,7 @@ The documentation build configuration is stored as its own subproject, a copy of
 managing this subproject happens separately from the main app.
 
 The [Sphinx Stack documentation](https://documentation.ubuntu.com/sphinx-stack)
-describes the officially-supported features and provides guidance for customizing the docs.
+describes the officially supported features and provides guidance for customizing the docs.
 
 ## Update the docs subproject
 
